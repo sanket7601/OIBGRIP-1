@@ -1,0 +1,160 @@
+#heading{
+    border: 3px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color:black;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border-width: 6px;
+}
+#heading nav{
+    background-color: black;
+}
+#heading nav a{
+    
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#heading a:hover {
+    color: blue;
+}
+#intro{
+    margin-top: 35px;
+    border: 1px solid orange;
+    border-width: 6px;
+    border-radius: 10px;
+    height: 650px;
+    margin-bottom: 20px;
+    background-color: navy;
+    
+}
+#intro h1{
+    font-size: 75px;
+    text-align: center;
+    color: orange;
+    
+}
+#intro img{
+  
+   height: 220px;
+   width: 220px;
+   border-radius: 50%;
+   border: 1px solid #9B2226;
+   border-width: 9px;
+   margin-left: 550px;
+    
+}
+#intro p{
+    margin-top: 40px;
+    font-size: 36px;
+    text-align: center;
+    color: #E9D8A6;
+
+}
+#education{
+    margin-top: 35px;
+    border: 1px solid yellow;
+    border-width: 6px;
+    border-radius: 10px;
+    height: 650px;
+    margin-bottom: 20px;
+    background-color: seagreen;
+    
+}
+#education h1{
+    font-size: 65px;
+    text-align: center;
+    color: yellow;
+
+}
+#education dt{
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: left;
+    color: #3B170B;
+    font-style: strong;
+    margin-left: 20px;
+}
+#education dd{
+    margin-top: 30px;
+    font-size: 24px;
+    text-align: left;
+    color: lightcyan;
+    margin-left: 40px;
+}
+#education img{
+   width: 400px;
+   height: 400px;
+   float: right;
+   
+   border: 3px solid black;
+   margin-right: 40px;
+   border-radius: 10%;
+}
+
+
+#skills{
+    margin-top: 35px;
+    border: 1px solid #FE2E64;
+    border-width: 6px;
+    border-radius: 10px;
+    height: 450px;
+    margin-bottom: 20px;
+    background-color: #210B61;
+    
+}
+#skills h1{
+    font-size: 75px;
+    text-align: center;
+    color: #FE2E64;
+    margin-left: 10px;
+
+}
+#skills ul{
+    margin-top: 40px;
+    font-size: 36px;
+    text-align: center;
+    color: #58FAD0;
+    list-style-type: none;
+}
+#skills li{
+    margin-top: 20px;
+    margin-right: 250px;
+}
+#skills img{
+    width: 400px;
+   height: 400px;
+   float: right;
+   margin-top: 20px;
+   border: 3px solid black;
+   margin-right: 40px;
+   border-radius: 10%;
+
+}
+#contact{
+    margin-top: 35px;
+    border: 1px solid yellow;
+    border-width: 6px;
+    border-radius: 10px;
+    height: 450px;
+    margin-bottom: 20px;
+    background-color: gray;
+    text-align: center;
+    
+}
+#contact h1{
+    font-size: 60px;
+    text-align: center;
+    color: yellow;
+}
+#contact a{
+    font-size: 30px;
+    color: white;
+    line-height: 70px;
+}
+#contact a:hover{
+    color: blue;
+}
